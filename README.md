@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS @ Harold Washington College
 - 📫 How to reach me: email! (mariacamilacedano@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've been to 4 countries in the past year! (Egypt, Palestine, Spain, and Portugal!)
+- ⚡ Hobbies include: playing/watching soccer (Hala Madrid!) and film photography
 
 <!---
 milacedano/milacedano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

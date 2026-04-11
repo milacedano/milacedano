@@ -1,4 +1,4 @@
-### hi, mila cedano 🌸
+### hi, im mila cedano 🌸
 
 > math student · stem educator · community builder · chicago, il
 

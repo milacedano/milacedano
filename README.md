@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @milacedano
-- 💞️ Dedicated to fostering inclusivity and empowerment in the field of computer science, particularly by supporting and advocating for women in tech
-- 🌱 I’m currently majoring in Mathematics @ Dominican University
-- 📫 How to reach me: email! (mariacamilacedano@gmail.com)
-- 😄 Pronouns: she/her
-- ⚡ Hobbies include: playing/watching soccer (Hala Madrid!) and film photography
+### hi, mila cedano 🌸
+
+> math student · stem educator · community builder · chicago, il
+
+i'm studying mathematics @ dominican university and i care a lot about using tech for good — from tutoring kids in algebra to teaching high schoolers to code to tinkering around with public city data. bilingual (en/es) and always curious. 
+
+📩 mariacamilacedano@gmail.com
 
 <!---
 milacedano/milacedano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
